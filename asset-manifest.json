@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SCL010-Burger-Queen/static/css/main.20ce99ca.chunk.css",
+    "main.js": "/SCL010-Burger-Queen/static/js/main.01bb3de3.chunk.js",
+    "main.js.map": "/SCL010-Burger-Queen/static/js/main.01bb3de3.chunk.js.map",
+    "runtime~main.js": "/SCL010-Burger-Queen/static/js/runtime~main.35e6da41.js",
+    "runtime~main.js.map": "/SCL010-Burger-Queen/static/js/runtime~main.35e6da41.js.map",
+    "static/css/2.cb0a7b97.chunk.css": "/SCL010-Burger-Queen/static/css/2.cb0a7b97.chunk.css",
+    "static/js/2.0385da05.chunk.js": "/SCL010-Burger-Queen/static/js/2.0385da05.chunk.js",
+    "static/js/2.0385da05.chunk.js.map": "/SCL010-Burger-Queen/static/js/2.0385da05.chunk.js.map",
+    "index.html": "/SCL010-Burger-Queen/index.html",
+    "precache-manifest.d9d477642f2a959deae8144039edb45e.js": "/SCL010-Burger-Queen/precache-manifest.d9d477642f2a959deae8144039edb45e.js",
+    "service-worker.js": "/SCL010-Burger-Queen/service-worker.js",
+    "static/css/2.cb0a7b97.chunk.css.map": "/SCL010-Burger-Queen/static/css/2.cb0a7b97.chunk.css.map",
+    "static/css/main.20ce99ca.chunk.css.map": "/SCL010-Burger-Queen/static/css/main.20ce99ca.chunk.css.map",
+    "static/media/index.css": "/SCL010-Burger-Queen/static/media/bg-image@2x.8a300f70.png",
+    "static/media/big-burger@2x.png": "/SCL010-Burger-Queen/static/media/big-burger@2x.5d900573.png"
+  }
+}
